@@ -98,16 +98,6 @@ button:hover {
 }
 
 @media only screen and (max-width: 768px) {
-    .search-button {
-        width: 100px;
-        margin-top: 10px;
-        margin-left: 0;
-    }
-    .search-container {
-        flex-direction: column;
-        margin-top: 10px;
-        margin-bottom: 10px;
-    }
     .search-bar {
         max-width: 400px;
         width: 100%;
